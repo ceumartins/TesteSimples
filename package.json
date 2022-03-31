@@ -4,6 +4,7 @@
   "description": "Para teste de admissão",
   "main": "index.js",
   "scripts": {
+    "start":"node app.js",
     "test": "jest"
   },
   "author": "Gustavo Paiva",
